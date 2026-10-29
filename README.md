@@ -23,11 +23,11 @@ Throughout the development process, the system evolved from an initial **dual-BL
 
 ## 👥 Team Members
 
-| Name | Student ID |
-|------|-----------:|
-| **Faija Ahamed Mim**
-| **Eusa Anjum Himel (Team lead)**
-| **Maryum Binte Hossain**
+| Name |
+|------|
+| **Faija Ahamed Mim** |
+| **Eusa Anjum Himel (Team lead)** |
+| **Maryum Binte Hossain** |
 
 
 
