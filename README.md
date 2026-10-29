@@ -25,9 +25,9 @@ Throughout the development process, the system evolved from an initial **dual-BL
 
 | Name | Student ID |
 |------|-----------:|
-| **Faija Ahamed Mim** | 0112430171 |
-| **Eusa Anjum Himel (Team lead)** | 0112430162 |
-| **Maryum Binte Hossain** | 0112430152 |
+| **Faija Ahamed Mim**
+| **Eusa Anjum Himel (Team lead)**
+| **Maryum Binte Hossain**
 
 
 
