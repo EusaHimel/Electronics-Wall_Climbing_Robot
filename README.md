@@ -26,7 +26,7 @@ Throughout the development process, the system evolved from an initial **dual-BL
 | Name | Student ID |
 |------|-----------:|
 | **Faija Ahamed Mim** | 0112430171 |
-| **Eusa Anjum Himel** | 0112430162 |
+| **Eusa Anjum Himel (Team lead)** | 0112430162 |
 | **Maryum Binte Hossain** | 0112430152 |
 
 
@@ -170,7 +170,7 @@ The final prototype was redesigned as a lightweight **single-BLDC system** mount
 ## 📂 Repository Structure
 
 ```text
-Autonomous-Wall-Climbing-Robot/
+Electronics-Wall_Climbing_Robot/
 │
 ├── README.md                         # Project documentation
 ├── code/                             # ESP32 firmware source code
